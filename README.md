@@ -8,7 +8,7 @@
 <a href="https://github.com/yousabgithub?tab=repositories"><img style="   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 60%; " src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=2FA2D5&multiline=true&width=470&height=150&lines=%2F%2F+Hi+there+%F0%9F%91%8B;%7B;%22name%22++++++%3A+%22Yousab+Sefeen+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%22+%2C;%22title%22+%3A+%22Junior+Flutter+Developer+%F0%9F%93%B1%22+%2C;%7D" alt="Yousab Sefeen" /></a>
+  width: 60%; " src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=2FA2D5&multiline=true&width=470&height=150&lines=%2F%2F+Hi+there+%F0%9F%91%8B;%7B;%22name%22++++++%3A+%22Yousab+Sefeen+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%22+%2C;%22title%22+%3A+%22Flutter+Developer+%F0%9F%93%B1%22+%2C;%7D" alt="Yousab Sefeen" /></a>
 
 I'm Yousab from Egypt, an Engineering professional with a Bachelor's degree in Computer Science. As a Junior Software Engineer, I have experience in mobile development using the Flutter framework and Dart programming language.
 
